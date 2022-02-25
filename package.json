@@ -1,0 +1,11 @@
+{
+  "name": "1.-maps",
+  "version": "1.0.0",
+  "description": "Study project TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

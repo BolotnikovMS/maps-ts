@@ -4,9 +4,18 @@
     "target": "es6",
     "sourceMap": true,
     "esModuleInterop" : true,
-    "moduleResolution" : "Node"
+    "moduleResolution" : "Node",
+    "outDir": "dist",
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true
   },
   "exclude": [
     "node_modules"
+  ],
+  "include": [
+    "src/**/*"
   ]
 }
